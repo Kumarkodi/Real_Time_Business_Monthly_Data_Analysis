@@ -1,0 +1,36 @@
+Steps That I Have Applied:
+
+1. First I have Cleaned Data, Soreted According to its Type, Renamed come columns as per required.
+
+2. Created a Donut Chart by adding Legend field as Region and Values field as Sum of sales. Here change Title and Data Labels as per required.
+
+3. Created another Donut Chart by adding Legend feild as Segment and Values field as Sum of Sales. Here change Title and Data Labels as per required.
+
+4. Created a Stacked Area Chart that show data of X-axis as Ordered Date in Month , Y-axis as Sum of Sales and Legend as Ordered Date in Year. Through this chart i want to show monthly sales in a Year.
+
+5. Created a Stacked Area Chart that show data of X-axis as Ordered Date in Month , Y-axis as Sum of Profit and Legend as Ordered Date in Year. Through this chart i want to show monthly profit in a Year.
+
+6. Here I have Created a CLustered bar chart that shows the details such as Ship Mode on Y-axis , Sum of Sales in X-axis and Rename Title as Sales by Ship Mode.
+
+7. Here I have Created a CLustered bar chart that shows the details such as Category on Y-axis , Sum of Sales in X-axis and Rename Title as Sales by Category.
+
+8. Used a Map to Visualize location by state, Bubble size by Sales and Profit in Tooltips to get clear insights.
+Also Changed Title as Sum of Sales and Sum of Profit by State.
+
+9. Here I have Created a CLustered bar chart that shows the details such as Sub-Category on Y-axis , Sum of Sales in X-axis and Rename Title as Sales by Sub Category.
+
+10. I haved created 3 cards such as sales, Quantity and Profit that are automatically changed as per required.
+
+11. Created a Slicer that contians field of Region which has Central, East, South, West. Also format it as per required.
+
+12. Created a Text Box giving the Dashboard Name as per reuired by client.
+
+13. Created another Page and here i showed a 15 Days forecasting through various feactures.
+
+14. Created a line chart that shows Ordered Date on X-axis and Sales on Y-axis also change title as Sales Forecast - 15 Days.
+
+15. Created a line chart that shows Ordered Date on X-axis and Sales on Y-axis also change title as Sales Forecast - 15 Days. Here i have added a Zoom Slider to check the data in detail for each date and Number of sales Each date ordered.
+
+16. Added a Clustered Bar Chart that shows state on Y-axis, sales on X-axis and here i have took top 10 states that has highest sales.
+
+17. Hence Saved Both Pages and Publishover Over Onedrive.
